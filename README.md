@@ -1,29 +1,8 @@
 <h1> Hello, my name is Joan Vasquez👋</h1>
 
 
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Movil;DevOps+Web;Software+Analyst+Developer;Data+Analyst)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Movil;DevOps+Web;Systems+Analyst;Data+Analyst)](https://git.io/typing-svg)
 
-<!-- Skills as a table -->
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/scss.svg" alt="scss icon" /></td>
-</tr>
-</table>
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <p align="center">
