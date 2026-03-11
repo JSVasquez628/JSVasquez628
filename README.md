@@ -81,7 +81,7 @@ Aplicación para ventas y gestión de productos.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/TULINKEDIN">
+<a href="https://linkedin.com/in/joan-vasquez-72a21727a?utum-source=share&utm_compaign=share_via&utm_content=profiel&utum_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
