@@ -1,72 +1,96 @@
-<h1> Hello, my name is Joan Vasquez👋</h1>
+<h1 align="center">Hola 👋, soy Joan Vasquez</h1>
+<h3 align="center">Backend Developer | Python & Django</h3>
 
-
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Movil;DevOps+Web;Systems+Analyst;Data+Analyst)](https://git.io/typing-svg)
-
-
-<!-- Github Stats, coding streak, Most used languages analytics-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+Apasionado por el desarrollo backend, APIs REST y bases de datos.
+Actualmente enfocado en mejorar mis habilidades en Django y arquitectura de software.
 </p>
 
 ---
 
-<!-- About Me Section -->
+## 🚀 Sobre mí
 
-## About Me
-
-<!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
-
-🔭 I’m currently working on **Rust** and **DevOps**
-
-🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
-
-👯 I’m looking to _collaborate_ on **Rust** projects
-
-🤔 I’m looking for help with **Rust** and **AWS**
-
-💬 Ask me about **Rust**, **DevOps** and **AWS**
-
-😄 Pronouns: **_He/His_**
-
-📫 How to reach me: **royrustdev@gmail.com**
-
-<br />
-<!-- Contact Section -->
-
-<p align="center">
-<a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/linkedin.svg" alt="my linkedin account" />
-</a>
-<a href="https://twitter.com/royrustdev" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/twitter.svg" alt="my twitter account" />
-</a>
-<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/reddit.svg" alt="my reddit account" />
-</a>
-</p>
-
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
+- 🎓 Tecnólogo en **Análisis y Desarrollo de Software (ADSO) - SENA**
+- 💻 Backend Developer con **Python y Django**
+- 🔭 Actualmente trabajando en proyectos para mi **portafolio**
+- 🌱 Aprendiendo **Django REST Framework y buenas prácticas backend**
+- 🎯 Objetivo: conseguir una oportunidad como **Backend Developer**
 
 ---
 
-Credit: [royrustdev](https://github.com/royrustdev)
+## 🛠️ Tecnologías y herramientas
 
-Last Edited on: 03/05/2022
-<!--
-**JSVasquez628/JSVasquez628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,mysql,postgres,docker,git,github,vscode,postman" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+🚧 **Sistema de Facturación API**  
+API REST con Django REST Framework  
+- Autenticación con JWT  
+- CRUD de clientes, productos y facturas  
+
+🐾 **Sistema Pet Shop**  
+Sistema de ventas para productos de mascotas  
+- Control de inventario  
+- Base de datos MySQL  
+
+🛒 **Sistema POS Web**  
+Aplicación para ventas y gestión de productos.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=TUUSUARIO&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🐍 Animación de contribuciones
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 📫 Conecta conmigo
+
+<p align="center">
+
+<a href="https://linkedin.com/in/TULINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:TUEMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+⭐ *Siempre aprendiendo nuevas tecnologías y construyendo proyectos backend.*
